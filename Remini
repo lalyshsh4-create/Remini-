@@ -2,12 +2,12 @@
   {
     "appName": "Remini",
     "packageName": "com.bigwinepot.nwdn.international",
-    "versionCode": 202514027,
+    "versionCode": 202514026,
     "updateUrl": "https://Telegram.me/fotball_kora",
     "title": "New تحديث جديد 🆕",
     "description": "What's New!.\n1. تم اصلاح الاخطاء\n2. تعمل بشكل جيد 100%\n4. جميع المميزات تم فتحها 💎",
     "isForce": true,
-    "isExpired": true,
+    "isExpired": false,
     "expiryDate": "2025-09-01",
     "closeButtonText": "Exit",
     "updateButtonText": "إضغط للتحديث"
